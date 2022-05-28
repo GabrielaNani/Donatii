@@ -1,0 +1,39 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Vanea",
+      "imgURL": "#",
+      "description": "vaniusha este un animal",
+      "donation": 50
+    },
+    {
+      "id": 2,
+      "name": "Ana",
+      "imgURL": "##",
+      "description": "ana este un animal",
+      "donation": 100
+    },
+    {
+      "id": 3,
+      "name": "Angela",
+      "imgURL": "###",
+      "description": "angela este un animal",
+      "donation": 300
+    },
+    {
+      "name": "",
+      "imgURL": "",
+      "description": "",
+      "donation": 0,
+      "id": 4
+    },
+    {
+      "name": "",
+      "imgURL": "",
+      "description": "",
+      "donation": 0,
+      "id": 5
+    }
+  ]
+}
